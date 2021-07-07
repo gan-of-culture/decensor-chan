@@ -1,6 +1,6 @@
 # decensor-chan <!-- omit in toc --> 
 
-An idiots guide to decensor hentai on windows using deepcreampy and hent-ai.
+An idiots guide to decensor hentai on Windows using DeepCreamPy and hent-AI
 
 ## Content
 
@@ -87,7 +87,11 @@ gmask = 4
 
 Now move the images you want to decensor into the ```\hent-AI_1_6_9\input_images``` folder and run the ```\hent-AI_1_6_9\main.exe```. A new terminal window will pop-up. It does take some time to load so be patient!
 
-Next you can chose what censor type is used on your image/video and then press ```Go!```.
+Next you can chose what censor type is used on your image/video and then press ```Go!```. 
+
+Info:
+
+>There is a difference between bar and mosaic censors. For bar censors you only need to supply the masked image to deepcreampy via the ```\hent-AI_1_6_9\dist 1\decensor_input``` folder. On the other hand if you have mosaic censor you need to supply the masked image like you did for the bar censor and additionally you also need to put a copy of the original (not masked) file into the ```\hent-AI_1_6_9\dist 1\decensor_input_original```. This helps the decensor process of mosaic censored file since it's working with the existing pixel values. If you are using hent-ai then all this will be done for you.
 
 Hent-AI will now mask the censored areas and output the files into ```\hent-AI_1_6_9\dist 1\decensor_input```. As soon as it is done you can close it and go into the ```\hent-AI_1_6_9\dist 1``` directory. Run the main.exe like we did above. Again wait a little to allow the program to load.
 
