@@ -93,11 +93,11 @@ Info:
 
 >There is a difference between bar and mosaic censors. For bar censors you only need to supply the masked image to deepcreampy via the ```\hent-AI_1_6_9\dist 1\decensor_input``` folder. On the other hand if you have mosaic censor you need to supply the masked image like you did for the bar censor and additionally you also need to put a copy of the original (not masked) file into the ```\hent-AI_1_6_9\dist 1\decensor_input_original```. This helps the decensor process of mosaic censored file since it's working with the existing pixel values. If you are using hent-ai then all this will be done for you.
 
-Hent-AI will now mask the censored areas and output the files into ```\hent-AI_1_6_9\dist 1\decensor_input```. As soon as it is done you can close it and go into the ```\hent-AI_1_6_9\dist 1``` directory. Run the main.exe like we did above. Again wait a little to allow the program to load.
+As soon as it is done you can close it and go into the ```\hent-AI_1_6_9\dist 1``` directory. Run the main.exe like we did above. Again wait a little to allow the program to load.
 
 Choose your censor type one last type and how many variations dcp should produce. Now run it by pressing the button ```Decensor Your Images```!
 
-As soon as this is also done you can see the decensored files in the ```\hent-AI_1_6_9\dist 1\decensor_output```.
+Finally you can see the decensored files in the ```\hent-AI_1_6_9\dist 1\decensor_output```.
 
 ## Credit
 
