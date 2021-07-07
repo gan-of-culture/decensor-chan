@@ -83,7 +83,7 @@ srcdir = C:/Users/_/Documents/Programs/hent-AI_1_6_9/input_images
 gmask = 4
 ```
 
-The ```gmask``` value is used to determine how much the detected mask needs to be extended in pixel. Default is 3 although you can play around with it of course.
+The ```gmask``` value is used to determine how much the detected mask needs to be extended by - in pixels. Default is 3 although you can play around with it of course.
 
 ## Usage
 
