@@ -83,7 +83,11 @@ srcdir = C:/Users/_/Documents/Programs/hent-AI_1_6_9/input_images
 gmask = 4
 ```
 
+The ```gmask``` value is used to determine how much the detected mask needs to be extended in pixel. Default is 3 although you can play around with it of course.
+
 ## Usage
+
+Before you start please keep in mind that it's possible that your images are not supported by DeepCreamPy. DeepCreamPy only supports 8 bit RGB(A) as an input, so if you'll ever see that DeepCreamPy stuck decensoring an image, try to convert images in "decensor_input_original" and/or in "decensor_input" to 8 bit **PNG** using ether your editing software (GIMP, Photoshop, etc.) or with some external tools (like "Portable Advanced Batch Image Converter" or some online image converters)
 
 Now move the images you want to decensor into the ```\hent-AI_1_6_9\input_images``` folder and run the ```\hent-AI_1_6_9\main.exe```. A new terminal window will pop-up. It does take some time to load so be patient!
 
