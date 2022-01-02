@@ -107,7 +107,7 @@ Finally you can see the decensored files in the ```\hent-AI_1_6_9\dist 1\decenso
 
 Software and instructions provided by:
 
-[hent-AI](https://github.com/natethegreate/hent-AI/releases/download/v1.6.9/hent-AI_1_6_9.7z)  
+[hent-AI](https://github.com/natethegreate/hent-AI/)  
 [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)
 
 ## License
