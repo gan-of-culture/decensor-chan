@@ -29,7 +29,7 @@ Because coloring multiple images by hand is very tedious, the hent-AI project wa
 
 ## Installing Hent-AI
 
-Is used to dectect and apply a mask to the censored part of your image(s) using green (0,255,0).
+It's used to dectect and apply a mask to the censored part of your image(s) using green (0,255,0).
 
 First download the latest release from [GitHub](https://github.com/natethegreate/hent-AI/releases/download/v1.6.9/hent-AI_1_6_9.7z). After that's done you need to extract the .7z file you just downloaded.
 
@@ -43,7 +43,7 @@ Let's move on to the next step!
 
 Is used decensor your images if they have either a mosaic or bar censor.
 
-First download the latest release from [Mega](https://mega.nz/file/mhESmDqB#K1oGhABr2uPmxEHcbJD6uVLGhCLeZoUB7h2Z8Duyfvg). After that's done you need to extract the .zip file you just downloaded. Unfortunatly the original repository of DeepCreamPy was deleted by it's creator after his account information got stolen. This Mega link does provide the latest offical version.
+First download the latest release from [Mega](https://mega.nz/file/mhESmDqB#K1oGhABr2uPmxEHcbJD6uVLGhCLeZoUB7h2Z8Duyfvg). After that's done you need to extract the .zip file you just downloaded. Unfortunatly the original repository of DeepCreamPy was deleted by it's creator after he lost his laptop. This Mega link does provide the latest offical version.
 
 Now if you open the extracted folder should have these files:  
 
