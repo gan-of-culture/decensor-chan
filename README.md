@@ -41,7 +41,7 @@ Let's move on to the next step!
 
 ## Installing DeepCreamPy
 
-Is used decensor your images if they have either a mosaic or bar censor.
+It's used decensor your images if they have either a mosaic or bar censor.
 
 First download the latest release from [Mega](https://mega.nz/file/mhESmDqB#K1oGhABr2uPmxEHcbJD6uVLGhCLeZoUB7h2Z8Duyfvg). After that's done you need to extract the .zip file you just downloaded. Unfortunatly the original repository of DeepCreamPy was deleted by it's creator after he lost his laptop. This Mega link does provide the latest offical version.
 
